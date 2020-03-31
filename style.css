@@ -1,0 +1,134 @@
+li{
+margin: 25px;
+display: inline;
+}
+
+.mc{
+margin-right: 200px;
+font-size: 15px;
+margin-top: 5px;
+color: rgb(155, 155, 155);
+float: right;
+font-family: monospace;
+display: inline-flex;
+}
+
+.mers{
+margin-left: 150px;
+float: left;
+}
+li:hover{
+opacity: 1;
+color: black;
+border-bottom: gold 2px solid;
+
+}
+
+.xo{
+box-sizing: border-box;
+width: 450px;
+height: 400px;
+float: left;
+margin-left: 150px;
+margin-top: 100px;
+}
+.r {
+background-color:white;
+border: rgb(209, 209, 209) 1px solid;
+border-radius: 5px;
+color: rgb(150, 133, 133);
+text-align: left;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+margin: 4px 2px;
+cursor: pointer;
+letter-spacing: 2px;
+padding: 20px 95px;
+margin-top: 45px;
+}
+.r2 {
+background-color: rgb(218, 44, 44);
+border: rgb(209, 209, 209) 1px solid;
+border-radius: 5px;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+margin: 4px 2px;
+cursor: pointer;
+letter-spacing: 2px;
+padding: 20px 15px;
+margin-top: 45px;
+}
+.Atyau{
+margin-right: 100px;
+margin-top: 25px;
+float: right;
+
+}
+
+.mu{
+font-family:sans-serif;
+font-family:Helvetica;
+font-family:Arial;
+font-size: 60px;
+margin-top: 5px;
+
+}
+.liver{
+font-size: 15px;
+font-family: monospace;
+margin-top: -15px;
+color: gray;
+}
+
+.Guw{
+float: inline-start;
+
+
+}
+
+.savage{float: left;}
+.q{float: right;}
+
+.NiP{
+background-color:white;
+border: rgb(209, 209, 209) 1px solid;
+border-radius: 5px;
+color: rgb(218, 44, 44);
+padding: 45px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+margin: 4px 2px;
+cursor: pointer;
+letter-spacing: 2px;
+padding: 10px 20px;
+
+}
+.fifa{
+margin-left: 540px;
+}
+.mat{
+margin-left: 540px;
+}
+.migos{
+font-family: sans-serif;
+}
+.cs{
+margin-left: 200px;
+
+}
+.navi{
+margin-left: 600px;
+margin-top: -340px;
+}
+.bayern{
+float: right;
+margin-top: -340px;
+margin-right: 200px;
+}
